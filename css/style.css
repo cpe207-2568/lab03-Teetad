@@ -1,0 +1,14 @@
+.img-pfp{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    margin: 5px;
+    width: 20%;
+}
+
+.fixing{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
